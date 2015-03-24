@@ -1,0 +1,8 @@
+/Users/admin/AndroidStudioProjects/ActivitySceneTransitionBasic/Application/build/intermediates/classes/release
+/Users/admin/AndroidStudioProjects/ActivitySceneTransitionBasic/Application/build/intermediates/pre-dexed/release/internal_impl-21.0.2-8400ae2a69904383ca06a5d737abe0d6418e7d3a.jar
+/Users/admin/AndroidStudioProjects/ActivitySceneTransitionBasic/Application/build/intermediates/pre-dexed/release/support-annotations-21.0.2-3944f96d3b41b3dce1efef4887b40c9980c6c74b.jar
+/Users/admin/AndroidStudioProjects/ActivitySceneTransitionBasic/Application/build/intermediates/pre-dexed/release/classes-50c8adb1684287b54851940318ec94cad57d4dfa.jar
+/Users/admin/AndroidStudioProjects/ActivitySceneTransitionBasic/Application/build/intermediates/pre-dexed/release/classes-520c5a1f353617985f7cc46707a9d27a3e1d5bdc.jar
+/Users/admin/AndroidStudioProjects/ActivitySceneTransitionBasic/Application/build/intermediates/pre-dexed/release/picasso-2.4.0-102b40a284b8cbdbd5a36fec379e3084443a04c4.jar
+/Users/admin/AndroidStudioProjects/ActivitySceneTransitionBasic/Application/build/intermediates/pre-dexed/release/internal_impl-21.0.2-dfea9a6d8fb336abbbedc45dacbb4400afcbc8f3.jar
+/Users/admin/AndroidStudioProjects/ActivitySceneTransitionBasic/Application/build/intermediates/pre-dexed/release/classes-746103193b0262d2f6564c4f92cc2ff536f7e1da.jar
